@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-14T09:31:56.838Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="2TA_splJf4Ms3jh8lJbQ" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-14T13:48:01.072Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="mWz1vxjlBTkWHPO8R-QL" version="15.9.6" type="github">
   <diagram id="caXexTEJBv6CrdpRISGA" name="Page-1">
-    <mxGraphModel dx="1483" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,15 +34,6 @@
         </mxCell>
         <mxCell id="JLe1jJlhFTSl7jyXHcjE-7" value="Sign in Successfully" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="870" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JLe1jJlhFTSl7jyXHcjE-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.375;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="24f85O7Nwtm500EX6S1h-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="150" y="130" as="targetPoint" />
-            <mxPoint x="400" y="370" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="400" y="130" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="JLe1jJlhFTSl7jyXHcjE-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JLe1jJlhFTSl7jyXHcjE-8" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -90,12 +81,12 @@
         <mxCell id="JLe1jJlhFTSl7jyXHcjE-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JLe1jJlhFTSl7jyXHcjE-32" target="JLe1jJlhFTSl7jyXHcjE-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JLe1jJlhFTSl7jyXHcjE-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JLe1jJlhFTSl7jyXHcjE-32" edge="1">
+        <mxCell id="JLe1jJlhFTSl7jyXHcjE-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.02;entryY=0.397;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JLe1jJlhFTSl7jyXHcjE-32" edge="1" target="JLe1jJlhFTSl7jyXHcjE-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="130" as="targetPoint" />
+            <mxPoint x="280" y="180" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="240" y="750" />
-              <mxPoint x="240" y="750" />
+              <mxPoint x="280" y="750" />
+              <mxPoint x="280" y="184" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -108,7 +99,15 @@
         <mxCell id="JLe1jJlhFTSl7jyXHcjE-38" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="200" y="720" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="24f85O7Nwtm500EX6S1h-1" value="Change Password" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="KJN-KmKUEPv8F13OQRkR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.013;entryY=0.143;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="24f85O7Nwtm500EX6S1h-1" target="JLe1jJlhFTSl7jyXHcjE-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="169" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24f85O7Nwtm500EX6S1h-1" value="Change Password" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="360" y="350" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
