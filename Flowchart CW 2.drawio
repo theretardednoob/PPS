@@ -1,24 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2021-12-14T13:48:01.072Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="mWz1vxjlBTkWHPO8R-QL" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-16T18:11:59.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="h9-LG-boK9y5pve2r0ri" version="15.9.6" type="github">
   <diagram id="caXexTEJBv6CrdpRISGA" name="Page-1">
-    <mxGraphModel dx="1038" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JLe1jJlhFTSl7jyXHcjE-1" value="Enter Sign in Website" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JLe1jJlhFTSl7jyXHcjE-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JLe1jJlhFTSl7jyXHcjE-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="150" y="330" as="sourcePoint" />
-            <mxPoint x="150" y="370" as="targetPoint" />
+            <mxPoint x="300" y="330" as="sourcePoint" />
+            <mxPoint x="300" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JLe1jJlhFTSl7jyXHcjE-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="JLe1jJlhFTSl7jyXHcjE-23" target="JLe1jJlhFTSl7jyXHcjE-6" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="150" y="430" as="sourcePoint" />
+            <mxPoint x="300" y="430" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JLe1jJlhFTSl7jyXHcjE-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JLe1jJlhFTSl7jyXHcjE-6" target="JLe1jJlhFTSl7jyXHcjE-8" edge="1">
@@ -26,89 +26,91 @@
         </mxCell>
         <mxCell id="JLe1jJlhFTSl7jyXHcjE-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JLe1jJlhFTSl7jyXHcjE-6" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="150" y="600" as="targetPoint" />
+            <mxPoint x="300" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JLe1jJlhFTSl7jyXHcjE-6" value="IF password Correct" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="480" width="80" height="80" as="geometry" />
+          <mxGeometry x="260" y="480" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JLe1jJlhFTSl7jyXHcjE-7" value="Sign in Successfully" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JLe1jJlhFTSl7jyXHcjE-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JLe1jJlhFTSl7jyXHcjE-8" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="430" as="targetPoint" />
+            <mxPoint x="550" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JLe1jJlhFTSl7jyXHcjE-8" value="Wrong Password" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JLe1jJlhFTSl7jyXHcjE-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="JLe1jJlhFTSl7jyXHcjE-7" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="150" y="800" as="sourcePoint" />
+            <mxPoint x="300" y="800" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JLe1jJlhFTSl7jyXHcjE-12" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="JLe1jJlhFTSl7jyXHcjE-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="150" as="sourcePoint" />
-            <mxPoint x="150" y="160" as="targetPoint" />
+            <mxPoint x="300" y="150" as="sourcePoint" />
+            <mxPoint x="300" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JLe1jJlhFTSl7jyXHcjE-13" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="JLe1jJlhFTSl7jyXHcjE-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="270" as="sourcePoint" />
-            <mxPoint x="150" y="290.71067811865476" as="targetPoint" />
+            <mxPoint x="300" y="270" as="sourcePoint" />
+            <mxPoint x="300" y="290.71067811865476" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JLe1jJlhFTSl7jyXHcjE-20" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="140" y="560" width="60" height="30" as="geometry" />
+          <mxGeometry x="290" y="560" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JLe1jJlhFTSl7jyXHcjE-21" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="200" y="490" width="60" height="30" as="geometry" />
+          <mxGeometry x="350" y="490" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JLe1jJlhFTSl7jyXHcjE-23" value="Enter Password" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="370" width="120" height="40" as="geometry" />
+          <mxGeometry x="240" y="370" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JLe1jJlhFTSl7jyXHcjE-24" value="Enter Username" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="290" width="120" height="40" as="geometry" />
+          <mxGeometry x="240" y="290" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JLe1jJlhFTSl7jyXHcjE-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JLe1jJlhFTSl7jyXHcjE-25" target="JLe1jJlhFTSl7jyXHcjE-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JLe1jJlhFTSl7jyXHcjE-25" value="Enter 2FA code" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JLe1jJlhFTSl7jyXHcjE-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JLe1jJlhFTSl7jyXHcjE-32" target="JLe1jJlhFTSl7jyXHcjE-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JLe1jJlhFTSl7jyXHcjE-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.02;entryY=0.397;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JLe1jJlhFTSl7jyXHcjE-32" edge="1" target="JLe1jJlhFTSl7jyXHcjE-1">
+        <mxCell id="JLe1jJlhFTSl7jyXHcjE-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JLe1jJlhFTSl7jyXHcjE-32" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="180" as="targetPoint" />
+            <mxPoint x="360" y="200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="280" y="750" />
-              <mxPoint x="280" y="184" />
+              <mxPoint x="430" y="750" />
+              <mxPoint x="430" y="200" />
+              <mxPoint x="362" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="JLe1jJlhFTSl7jyXHcjE-32" value="If 2FA code correct" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="710" width="80" height="80" as="geometry" />
+          <mxGeometry x="260" y="710" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JLe1jJlhFTSl7jyXHcjE-37" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="140" y="790" width="60" height="30" as="geometry" />
+          <mxGeometry x="290" y="790" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JLe1jJlhFTSl7jyXHcjE-38" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="200" y="720" width="60" height="30" as="geometry" />
+          <mxGeometry x="350" y="720" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KJN-KmKUEPv8F13OQRkR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.013;entryY=0.143;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="24f85O7Nwtm500EX6S1h-1" target="JLe1jJlhFTSl7jyXHcjE-1">
+        <mxCell id="KJN-KmKUEPv8F13OQRkR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="24f85O7Nwtm500EX6S1h-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="170" as="targetPoint" />
+            <mxPoint x="360" y="180" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="400" y="169" />
+              <mxPoint x="550" y="180" />
+              <mxPoint x="360" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="24f85O7Nwtm500EX6S1h-1" value="Change Password" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="360" y="350" width="80" height="80" as="geometry" />
+          <mxGeometry x="510" y="350" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
