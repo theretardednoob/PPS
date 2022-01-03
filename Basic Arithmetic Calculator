@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-03T17:12:28.004Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="EObN92wQlDtgDL60mZyA" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-03T17:13:40.906Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="PCG0GjH1lG41SUNr3U55" version="16.1.0" type="github">
   <diagram id="JxtyPYyJA1puUfGIRqU9" name="Page-1">
     <mxGraphModel dx="1221" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -73,8 +73,8 @@
         <mxCell id="NElLF6Y4Z8bmoGuLupMz-25" value="If 2 is entered" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="370" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NElLF6Y4Z8bmoGuLupMz-26" value="If 3 or any other number is entered" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="460" width="120" height="30" as="geometry" />
+        <mxCell id="NElLF6Y4Z8bmoGuLupMz-26" value="If any other number except 1 or 2 is entered" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="460" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
